@@ -151,7 +151,5 @@ source "drivers/staging/msm/Kconfig"
 
 source "drivers/staging/frandom/Kconfig"
 
-source "drivers/staging/compcache/Kconfig"
-
 endif # !STAGING_EXCLUDE_BUILD
 endif # STAGING
